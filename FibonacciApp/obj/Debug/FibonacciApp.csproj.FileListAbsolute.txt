@@ -1,0 +1,10 @@
+C:\Users\Robert\Desktop\Proiecte\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Robert\Desktop\Proiecte\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Robert\Desktop\Proiecte\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Robert\Desktop\Proiecte\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\FibonacciApp.csproj.AssemblyReference.cache
+C:\Users\Robert\Desktop\Proiecte\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\FibonacciApp.Form1.resources
+C:\Users\Robert\Desktop\Proiecte\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Robert\Desktop\Proiecte\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\FibonacciApp.csproj.GenerateResource.cache
+C:\Users\Robert\Desktop\Proiecte\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\FibonacciApp.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Proiecte\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Robert\Desktop\Proiecte\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
